@@ -2,13 +2,11 @@
 
 A visually stunning Netflix homepage clone built with HTML, CSS, and JavaScript.
 
-![Preview](preview.png)
-
 ---
 
 ## 🚀 Demo
 
-**Live Site:** [https://your-username.github.io/netflix-clone/](https://your-username.github.io/netflix-clone/)
+**Live Site:** https://netflix-clone-website-tau.vercel.app/
 
 ---
 
@@ -34,13 +32,6 @@ It’s ideal for beginners to study layouts, responsive design, and basic intera
 
 ---
 
-## 📷 Screenshots
-
-![Screenshot 1](screenshots/screen1.png)
-![Screenshot 2](screenshots/screen2.png)
-
----
-
 ## ✨ Features
 
 - Eye-catching hero section with background image and CTA
@@ -62,10 +53,6 @@ It’s ideal for beginners to study layouts, responsive design, and basic intera
 ## 🏁 Getting Started
 
 ### Prerequisites
-
-- No installations required! (If making changes, you need [Git](https://git-scm.com/) and a code editor.)
-
----
 
 ## 📦 Installation
 
