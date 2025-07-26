@@ -6,7 +6,7 @@ A visually stunning Netflix homepage clone built with HTML, CSS, and JavaScript.
 
 ## 🚀 Demo
 
-**Live Site:** https://netflix-clone-website-tau.vercel.app/
+**Live Site:** https://myflix-neeraj.vercel.app/
 
 ---
 
